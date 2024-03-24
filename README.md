@@ -38,7 +38,7 @@ All necessary packages and modules are imported in the first cell of the noteboo
 - Pretrained models such as VGG16 from torchvision.models.
 - Necessary libraries for training, validation, and testing processes.
 
-## Part 2 - Command Line Application
+## Command Line Application
 
 This part of the project focuses on creating a command-line interface for training and predicting with the model. Key specifications include:
 
