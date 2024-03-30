@@ -1,7 +1,7 @@
 # flower_classifier_udacity
 # Flower Classification Deep Learning Project
 
-In this project, we aim to create a deep learning network to classify flowers based on the provided labels. This project was initiated by Udacity and executed within Udacity's GPU-enabled workspace. Unfortunately, the source files for this project are not included due to Udacity's workspace constraints. However, the project utilizes transfer learning by importing pre-trained classifiers from the PyTorch package and modifying the classifier attribute of each model to fit our flower classification task.
+In this project, our objective is to develop a flower classification deep learning network using transfer learning. Initiated within Udacity's GPU-enabled workspace, the project leverages pre-trained classifiers from the PyTorch package. However, due to workspace constraints, the source files are not provided. Nevertheless, our primary goal is to customize the classifier attribute of each imported model to suit the requirements of our flower classification task.
 
 ## Project Breakdown
 
